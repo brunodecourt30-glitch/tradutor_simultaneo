@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+
+# Ambientes virtuais Python
+venv/
+venv311/
+tradutor-env/
+venv
+env/
+.env
+*.egg-info/
+.eggs/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller (saída de build)
+build/
+dist/
+
+# Arquivos de áudio gerados/temporários
+*.wav
+*.mp3
+
+# Arquivos temporários e logs
+log.txt
+*.log
+*.tmp
+*.save
+
+# Arquivos pesados de distribuição
+*.zip
+
+# Backups
+*- cópia.py
+*- copia.py
+
+# Configuração local do Claude Code
+.claude/
