@@ -778,7 +778,7 @@ janela.bind("<Control-Key-2>", lambda e: btn_p2._toggle_handler(e))
 
 
 # =========================
-#  Loop
-# =========================
+
+# ================
 if __name__ == "__main__":
   janela.mainloop()
